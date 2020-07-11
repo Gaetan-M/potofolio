@@ -1,0 +1,45 @@
+#contact{
+	background: #0003;
+	padding-top: 10%;
+	width: 100%;
+}
+#container{
+	border: 1px solid black;
+	width: 90%;
+	height: 100%;
+	margin:auto;
+	color: white;
+	background: #000E;
+	padding-top: 5%;
+}
+#text{
+	overflow:10%;
+	max-width: 60%;
+	line-height:1.7em;
+	margin:8%;
+}
+#cool{
+border: 1px solid black;
+
+}
+#address{
+	margin: 8%;
+}
+
+#inputBox{
+	display: grid;
+	margin: 8%;
+}
+.input{
+	margin-bottom: 5%;
+	border: none;
+	background: #000E;
+	color: white;
+	height:40px;	
+}
+#button{
+	font-size: 1em;
+	height: 3em;
+	width: 10em;
+	cursor: pointer;
+}

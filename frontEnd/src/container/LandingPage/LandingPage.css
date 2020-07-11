@@ -1,0 +1,18 @@
+#LandingPage{
+	height:100vh;
+	width: 100%;
+	background-image: url("./font.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+#textArea{
+	margin: 20% 10%;
+}
+.element{
+	width: 100%;
+	margin: 2%;
+	max-width: 80%;
+	font-size: 1.5em;
+}

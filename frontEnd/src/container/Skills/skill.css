@@ -1,0 +1,29 @@
+#skill-Component{
+width: 100%;
+height: 50%;
+border: 1px solid black;
+box-sizing: border-box;
+}
+#skill{
+	display:flex;
+	justify-content: center;
+
+}
+.skill{
+	margin:30% 5%;
+}
+.skillItem{
+	margin-right: 10%;
+}
+#frontEnd-skill{
+	display: none;
+}
+#backEnd-skill{
+	display: none;
+}
+#network-skill{
+	display: none;
+}
+#others-skill{
+	display: flex;
+}
